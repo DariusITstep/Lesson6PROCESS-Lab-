@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|x:\\work\\git-process\\lesson6process(lab)\\lesson6process(lab)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE9EB7-A118-4A00-8B93-D6FBEFD6CAA9}|Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab).csproj|solutionrelative:lesson6process(lab)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task5.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Task5.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task5.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Task5.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:19:50.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task4.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Task4.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task4.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:05:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task3.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Task3.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task3.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:59:13.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task2.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Task2.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task2.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Task2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:49:30.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task1.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Task1.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Task1.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:18:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Utils.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Utils.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Utils.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:18:09.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\UI.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\UI.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\UI.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\UI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:17:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson6PROCESS(Lab)\\Program.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson6PROCESS(Lab)\\Lesson6PROCESS(Lab)\\Program.cs",
+              "RelativeToolTip": "Lesson6PROCESS(Lab)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T15:17:27.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
